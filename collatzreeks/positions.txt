@@ -1,0 +1,27 @@
+Collatz Iteration
+Initial numner: 50.0
+--------------------------
+List 0: 50.0
+List 1: 76.0
+List 2: 38.0
+List 3: 19.0
+List 4: 58.0
+List 5: 29.0
+List 6: 88.0
+List 7: 44.0
+List 8: 22.0
+List 9: 11.0
+List 10: 34.0
+List 11: 17.0
+List 12: 52.0
+List 13: 26.0
+List 14: 13.0
+List 15: 40.0
+List 16: 20.0
+List 17: 10.0
+List 18: 5.0
+List 19: 16.0
+List 20: 8.0
+List 21: 4.0
+List 22: 2.0
+List 23: 1.0
