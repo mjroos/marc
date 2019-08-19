@@ -24,7 +24,8 @@ boolean check(float a) {
 //Function generate list with te Collatz elements
 void collatzList() {
   output.println("Collatz Iteration");
-  output.println("Initial numner: " + getal);
+  output.println("Initial number: " + getal);
+  output.println("https://github.com/mjroos/marc/tree/master/collatzreeks");
   output.println("--------------------------");
   for ( int i = 0; i < collatz.size(); i++) {
     output.println("List " + i + ": " + collatz.get(i));
@@ -66,4 +67,6 @@ void texting() {
   fill(255);
   text("Collatz Iteration", 70, 50);
   text("Initial number" + " : " + getal, 70, 80);
+  textSize(15);
+  text("https://github.com/mjroos/marc/tree/master/collatzreeks", 70, 100);
 }

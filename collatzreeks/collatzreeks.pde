@@ -1,6 +1,8 @@
 //The presumption of Collatz is a presumption in number theory that says 
 //that a certain iteration leads in all cases to the number 1, whichever 
 //number "n" is chosen as the starting value.
+
+//https://github.com/mjroos/marc/tree/master/collatzreeks
 //M.Roos, 19 aug. 2019
 
 float getal = 50;      //by initial number 5, xzoom = 5, yzoom = 300000

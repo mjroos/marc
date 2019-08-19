@@ -1,5 +1,6 @@
 Collatz Iteration
-Initial numner: 50.0
+Initial number: 50.0
+https://github.com/mjroos/marc/tree/master/collatzreeks
 --------------------------
 List 0: 50.0
 List 1: 76.0
