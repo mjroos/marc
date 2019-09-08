@@ -1,3 +1,8 @@
+//Gplden Spiral
+//M.Roos
+//08/09/2019
+//https://github.com/mjroos/marc/blob/master/golden_spiral3/golden_spiral3.pde
+
 int h = 400;
 int a =0;
 
